@@ -1,0 +1,39 @@
+
+<link rel="stylesheet" type="text/css" href="modif.css">
+
+<p align=center><font size=7 color=white>Entreprise</font></p>
+
+
+<h1>BV Menuiserue</h1>
+<h2><b>2D7</b></h2>
+
+
+<a href="06 64 64 85 64"><img src="lar.jpg"width=400 height=200> </a>
+<a href="benoitvanbaelinghem@gmail.com"><img src="ndl.jpg"width=400 height=200></a>
+
+
+
+<ol type=I>
+<u><i><font size=5 color=blue>Mes centres d'intérêts :</font></i></u>
+<li>Entreprise de menuiserie située a Andres.</li>
+<li>Plus tard,je voudrais ma voiture.</li>
+<li>Je voudrais un bon métier.</li>
+ </ol>
+ 
+ 
+ <ol type=I>
+<u><small><font size=5 color=blue>Mes centres d'intérets :</font></small></u>
+<li>Je souhaite aller en 1er générale.</li>
+<li>Avec les specialités NSI,Maths et Physique chimie.</li>
+ </ol>
+ 
+ 
+ <ol> type=I>
+<u><i><font size=5 color=blue>Mes études et mon métier :</font></i></u>
+<li>je voudrais faire mon bac puis aller en IUT à Calais pour pouvoir faire un BUT informatique.</li>
+<li>Je souhaite faire le métier de Concepteur,Développeur en informatique .</li>
+ </ol>
+<p align=center><img src='concepteur.jpg'></p>
+
+
+
